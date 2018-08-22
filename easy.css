@@ -51,8 +51,7 @@ nav {
     height: 50px;
 }
 
- /* creating an ID to change the background & font color for the h 1 & paragraph block */
-#h1 {
+ h1{
   background: #ebebeb;
   color: #777;
   padding-top: 20px;
@@ -93,7 +92,6 @@ nav {
     z-index: 2;
   }
 
- /* creating an ID to change the background & font color for the article block */
 #article {
   color: #ebebeb;
   background: #777;
